@@ -4,13 +4,13 @@ class Author
 
   attr_accessor :name
 
-  def initialize(name)
-    @name = name
-  end
+  # def initialize(name)
+  #   @name = name
+  # end
 
 end
 
-angela = Author.new("Angela Davis")
+# angela = Author.new("Angela Davis")
 
 # binding.pry
 # puts "hey"
